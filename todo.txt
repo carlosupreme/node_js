@@ -1,7 +1,0 @@
-Lista de tareas
- ✗ Programaar
-|__ #1. Descripcion: Hacer una todo app
- ✗ Desayuno
-|__ #2. Descripcion: Comer una ensalada
- ✗ Tarea
-|__ #3. Descripcion: Grabar un poema, en este caso: muerte sin fin

@@ -1,0 +1,21 @@
+{
+  "name": "compress-images",
+  "version": "1.0.0",
+  "description": "Optimiza imagenes desde un directorio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Carlos Sosa <carlosupremedev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^11.1.1",
+    "imagemin": "^8.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-webp": "^8.0.0",
+    "sharp": "^0.32.4"
+  }
+}
