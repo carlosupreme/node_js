@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "App para ver el clima de diferentes ciudades",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Carlos Sosa <carlosupremedev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1"
+  }
+}
